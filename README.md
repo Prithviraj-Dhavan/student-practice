@@ -1,3 +1,3 @@
 # student-practice
-This is my first Git Repository
-Author - Prithviraj Dhavan
+This is my first Git Repository.
+Author - Prithviraj Dhavan.
